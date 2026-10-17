@@ -25,4 +25,7 @@ geminiの言い訳:これは、翻訳対象のMarkdownファイルに、 \x や 
 とうとうgoogleTransrateにバリバリ弾かれるようになってしまったので、argostranslateに変更。  
 質はそんなに変わらないっぽい。おまけにローカルなので鯖の状態を気にしなくてよくなった  
 今の所js版のみです。やり方は中見てちょ  
+  
+■おまけ5  
+cpp向けのargostranslate版を追加しました。(honyaku_cpp2.py)使い方は同じ  
 
