@@ -28,4 +28,5 @@ geminiの言い訳:これは、翻訳対象のMarkdownファイルに、 \x や 
   
 ■おまけ5  
 cpp向けのargostranslate版を追加しました。(honyaku_cpp2.py)使い方は同じ  
+※argostranslateはローカル翻訳なので複雑な文章は苦手です。参考程度に  
 
